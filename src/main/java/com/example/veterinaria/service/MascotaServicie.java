@@ -1,9 +1,9 @@
 package com.example.veterinaria.service;
+
 import com.example.veterinaria.model.Mascota;
 import com.example.veterinaria.repository.MascotaRepository;
 import jakarta.persistence.criteria.CriteriaBuilder;
 import org.springframework.stereotype.Service;
-
 import java.util.*;
 
 @Service
